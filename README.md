@@ -1,4 +1,4 @@
-# Test Static
+# Test POD
 
 This tutorial illustrates the concepts of POD and struct initialization. It also covers issues such as aggregates, Brace-Initialization, predefined MSDN macro, and member access operators.
 
